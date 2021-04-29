@@ -1,0 +1,28 @@
+.row {
+    margin: 10px;
+}
+
+#colonna1di2 {
+    margin-left: 140px;
+}
+
+.card {
+    background-color: transparent;
+}
+
+.card-body {
+    color: white;
+    font-size: 20px;
+    
+}
+
+.card {
+    border: none;
+}
+
+#container-nav {
+    color: white
+    ;
+}
+
+
